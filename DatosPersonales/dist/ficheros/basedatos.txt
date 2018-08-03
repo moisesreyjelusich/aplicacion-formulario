@@ -1,0 +1,6 @@
+1]pepe]12345678A]22454545]brasil nº 40, 5º]sdfsdfsf@dfsd.es]50]La Coruña]2018-05-11]Casad@]Primaria, 
+2]juan]12345678B]22454545]brasil nº 40, 5º]sdfsdfsf@dfsd.es]50]Lugo]2018-05-11]Solter@]Secundaria, 
+3]ana]12345678C]22454545]brasil nº 40, 5º]sdfsdfsf@dfsd.es]50]Lugo]2018-05-11]Solter@]Secundaria, 
+4]david]12345678D]22454545]brasil nº 40, 5º]sdfsdfsf@dfsd.es]50]Lugo]2018-05-11]Solter@]Formacion P., 
+5]rafa]12345678E]22454545]brasil nº 50, 5º]sdfsdfsf@dfsd.es]50]Orense]2018-05-11]Casad@]Universitarios, 
+6]jose]12345678F]22454545]brasil nº 50, 5º]sdfsdfsf@dfsd.es]50]Pontevedra]2018-05-11]Solter@]Secundaria, 

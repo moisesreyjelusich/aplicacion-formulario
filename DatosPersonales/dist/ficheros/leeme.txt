@@ -1,0 +1,40 @@
+Este fichero es una ayuda para el usuario.
+
+En la parte de arriba del programa hay un menu con diferentes opciones
+para trabajar con ficheros, un menu de opciones, un menu de alumnos para
+trabajar con el arrayList, un menu de usuarios para trabajar con usuarios
+y un menu de ayuda con un acceso directo a JavaDoc 8.Para ingresar en el 
+programa hay diferentes usuarios, segun sus privilegios.
+
+En la parte de abajo 11 botones para trabajar con el arrayList y con ficheros.
+
+1) El boton agregar sirve para agregar alumnos al arrayList para
+posteriormente grabar en el fichero.
+
+2) El boton borrar sirve para borrar alumnos del arrayList y
+posteriormente del fichero si se quiere.
+
+3) El boton modificar sirve para modificar todos los campos alumnos
+del arrayList para grabar en el fichero.
+
+4) El boton ver sirve para visualizar todos los campos de los 
+alumnos con los encabezados.
+
+5) El boton buscar sirve para buscar alumnos en el arrayList y en
+el fichero.
+
+6) El boton imprimir sirve para elegir una impresora despues de 
+seleccionar un fichero y despues mandarlo a la impresora para imprimir. 
+
+7) El boton tabla sirve para abrir un listado de alumnos del arrayList y
+posteriormente trabajar en el fichero si se quiere.
+
+8) El boton reiniciar sirve para reiniciar todos los campos el textarea y
+la tabla de alumnos.
+
+9) El boton agregar foto sirve para agregar una foto a la pantalla principal
+del programa de alumnos.
+
+10) El boton cargar sirve para cargar alumnos desde el fichero en el arrayList.
+
+11) El boton salir sirve para cerrar la aplicacion de alumnos.
